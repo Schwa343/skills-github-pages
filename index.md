@@ -1,4 +1,4 @@
 ---
-title: Mike Schwartz Homepage
+Mike Schwartz Homepage
 ---
 
